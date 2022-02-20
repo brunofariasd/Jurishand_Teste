@@ -6,7 +6,6 @@ export const Container = styled(Pressable)`
   height: 60px;
   background: #ff9000;
   border-radius: 10px;
-  margin-bottom: 48px;
 
   align-items: center;
   justify-content: center;
